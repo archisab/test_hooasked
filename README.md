@@ -1,2 +1,1 @@
-# test_hooasked
-Pleae work
+# object-detection-test
